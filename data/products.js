@@ -15,6 +15,36 @@ const products = [
     ]
   },
   {
+    id: "id1",
+    image: "images/products/anarchy.jpg",
+    name: "anarchy",
+    rating: {
+      stars: 4.0,
+      count: 84
+    },
+    priceCents: 4090,
+    keywords: [
+      "war",
+      "death",
+      "peace"
+    ]
+  },
+  {
+    id: "id2",
+    image: "images/products/backpack.jpg",
+    name: "backpack",
+    rating: {
+      stars: 4.0,
+      count: 114
+    },
+    priceCents: 0590,
+    keywords: [
+      "war",
+      "death",
+      "peace"
+    ]
+  },
+  {
     id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
     image: "images/products/intermediate-composite-basketball.jpg",
     name: "Intermediate Size Basketball",
